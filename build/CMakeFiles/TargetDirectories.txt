@@ -1,0 +1,3 @@
+/home/systemdev/VoxelEngine/build/CMakeFiles/main.dir
+/home/systemdev/VoxelEngine/build/CMakeFiles/edit_cache.dir
+/home/systemdev/VoxelEngine/build/CMakeFiles/rebuild_cache.dir
